@@ -1,6 +1,7 @@
 import flask
 import pickle
 import pandas as pd
+import numpy as np
 
 # Use pickle to load in the pre-trained model
 with open(f'model/bike_model_xgboost.pkl', 'rb') as f:
