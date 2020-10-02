@@ -3,3 +3,5 @@ pandas
 gunicorn
 xgboost
 sklearn
+keras
+matplotlib
